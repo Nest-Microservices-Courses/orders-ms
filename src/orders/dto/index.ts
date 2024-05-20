@@ -4,5 +4,6 @@ export * from './order-pagination.dto';
 export * from './pagination.dto';
 export * from './status.dto';
 export * from './order-item.dto';
+export * from './paid-order.dto';
 
 
